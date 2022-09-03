@@ -1,0 +1,10 @@
+.card {
+  background-color: #000000;
+  min-height: 630px;
+  max-height: 630px;
+}
+
+img {
+  min-height: 320px;
+  max-height: 300px;
+}
